@@ -1,4 +1,4 @@
-/* eslint-disable @next/next/no-img-element */
+https://cv-ecommerce-five.vercel.app/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import { useState } from "react";
@@ -60,7 +60,7 @@ export default function Page() {
       period: "2018 – 2024",
       points: [
         "Planowanie i realizacja strategii komunikacji: social media, newslettery (MailerLite, FreshMail), kampanie wizerunkowe.",
-        "Tworzenie lejków sprzedażowych i landing page&apos;y od lead magnetu po konwersję.",
+        "Tworzenie lejków sprzedażowych i landing page od lead magnetu po konwersję.",
         "Zarządzanie sklepem na platformie Shoper: aktualizacja produktów, opisy SEO, obsługa zamówień.",
         "Koordynacja sesji zdjęciowych, montaż video, organizacja eventów i konkursów."
       ]
